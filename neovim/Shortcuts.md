@@ -1,1 +1,0 @@
-vat = in HTML, highlight from the current opening tag to closing tag
