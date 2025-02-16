@@ -5,8 +5,6 @@ aliases:
 tags: []
 ---
 
-# English Kings
-
 # Monarchs of England (871–1707)
 
 ## Anglo-Saxon Monarchs (871–1013, 1014–1066)
@@ -40,14 +38,14 @@ tags: []
 - **William II (Rufus)** (1087–1100)
 - **Henry I** (1100–1135)
 - **Stephen** (1135–1154)
-  Empress Matilda (disputed, 1141)
+- **Empress Matilda** (disputed, 1141)
 
 ## Plantagenet Monarchs (1154–1399)
 
 - **Henry II** (1154–1189)
 - **Richard I (the Lionheart)** (1189–1199)
 - **John (Lackland)** (1199–1216)
-- **Henry III** (1216–1272)
+- **Henry's III** (1216–1272)
 - **Edward I (Longshanks)** (1272–1307)
 - **Edward II** (1307–1327)
 - **Edward III** (1327–1377)
@@ -75,7 +73,7 @@ tags: []
 
 - **James I** (1603–1625)
 - **Charles I** (1625–1649) _(Executed during the English Civil War)_
-  Interregnum: Oliver Cromwell (1653–1658) & Richard Cromwell (1658–1659)
+- **Interregnum:** Oliver Cromwell (1653–1658) & Richard Cromwell (1658–1659)
 - **Charles II** (1660–1685)
 - **James II** (1685–1688)
 - **Mary II & William III** (1689–1694) _(Ruled jointly)_
