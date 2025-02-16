@@ -5,6 +5,8 @@ aliases:
 tags: []
 ---
 
+[[moc-history]]
+
 # Monarchs of England (871–1707)
 
 ## Anglo-Saxon Monarchs (871–1013, 1014–1066)

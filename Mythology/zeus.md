@@ -2,7 +2,10 @@
 id: zeus
 aliases:
   - zeus
-tags: []
+tags:
+  - mythology
+  - greece
+  - gods
 ---
 
 # zeus

@@ -12,4 +12,4 @@ tags: []
 
 ## People of Interest
 
-[[people-of-interest]]
+[[mansa-musa]]
