@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/britain/english-monarchs.md",
+                "file": "Climbing/rope-skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "english-monarchs"
+              "title": "rope-skills"
             }
           }
         ]
@@ -170,6 +170,21 @@
   },
   "active": "f52e00b37fe6f181",
   "lastOpenFiles": [
+    "History/people-of-interest.md",
+    "Hiking/moc-hiking.md~",
+    "Hiking/wales.md",
+    "Hiking/summer-2025.md",
+    "Hiking/moc-hiking.md",
+    "Hiking",
+    "Climbing/moc-trad-skills.md",
+    "Climbing/moc-climbing.md",
+    "Climbing/rope-skills.md",
+    "Computers/moc-computers.md",
+    "Computers/vim-skills.md",
+    "Computers/neovim-plugins.md",
+    "Travel/moc-travel.md",
+    "Travel/countries.md",
+    "History/britain/english-monarchs.md",
     "MOCs/MOC-films.md",
     "Favourite Films.md",
     "MOCs/MOC-Climbing.md",
@@ -183,18 +198,6 @@
     "Notes/slavic-mythology.md",
     "Notes/test3.md",
     "MOCs/1739703819-RFKN.md",
-    "MOCs/Notes/climbing-warmup.md",
-    "MOCs/Notes",
-    "MOCs/climbing-warmup.md",
-    "Notes/British Folklore.md",
-    "MOCs/Mythology MOC.md",
-    "neovim/Shortcuts.md",
-    "neovim/Plugins of Interest.md",
-    "neovim/Neovim.md",
-    "Methodologies.md",
-    "Neovim.md",
-    "Plugins of Interest.md",
-    "Shortcuts.md",
-    "Welcome.md"
+    "MOCs/Notes"
   ]
 }
