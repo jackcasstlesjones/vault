@@ -4,4 +4,5 @@ aliases: []
 tags: []
 ---
 
+[[home]]
 [[ancient-greece]]
