@@ -11,10 +11,14 @@
             "id": "f52e00b37fe6f181",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Hiking/transcaucasus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "transcaucasus"
             }
           }
         ]

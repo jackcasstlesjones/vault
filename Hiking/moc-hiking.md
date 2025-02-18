@@ -6,6 +6,8 @@ tags: []
 
 [[home]]
 
-[[summer-2025]]
+## Eastern Europe
 
-[[wales]]
+[[big-trip]]
+[[tatranska-magistrala]]
+[[transcaucasus]]
