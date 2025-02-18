@@ -9,7 +9,7 @@ tags: []
 
 ## Full-stack development
 
-With a wealth of experience in both front end and back end development, we are well equipped to deliver a product that surpasses your expectations.
+With a wealth of experience in both front end and back end development, we are well equipped to deliver a product that meets your needs. When combined with our web design services, we are able to take you from your initial project concept, all the way through to deployment of a complete full-stack web application or website.
 
 ## Web design
 
@@ -17,14 +17,10 @@ We love building beautiful user interfaces. However, we don't think there's any 
 
 ## Technical Consultations
 
-Let us use our technical expertise to help you narrow down your vision.
-
-Working on a project with demonstrable social value? We believe in the power of technology to improve real people's live, and are able to offer technical consultantions free of charge for projects that meet these requirements.
+Let us use our technical expertise to help you narrow down your vision. Working on a project with demonstrable social value? We believe in the power of technology to improve real people's live, and are able to offer technical consultantions free of charge for projects that meet these requirements.
 
 ## Data Analytics
 
 ## Accessibility
 
-The web is a huge part of our lives and should be accessible to all. Our team of Accessibility experts can consult on best practices and audit your website to make sure that it conforms with accessibility laws and regulations.
-
-We also believe that accessibility goes further than ticking boxes, and with first-hand knowledge of the requirements of users with accessibility issues, we are able to make sure that your website is truly accessible, rather than just ticking the boxes of the guidelines. We put you, and yours users, first.
+The web is a huge part of our lives and should be accessible to all. Our team of Accessibility experts can consult on best practices and audit your website to make sure that it conforms with accessibility laws and regulations. We also believe that accessibility goes further than ticking boxes, and with first-hand knowledge of the requirements of users with accessibility issues, we are able to make sure that your website is truly accessible, rather than just ticking the boxes of the guidelines. We put you, and your users, first.
