@@ -31,3 +31,7 @@ tags: []
 - [ ] nvim last place
 - [ ] heirline
 - [x] fix telescope project
+
+---
+
+- [ ] https://github.com/kkoomen/vim-doge
