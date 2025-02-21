@@ -1,10 +1,3 @@
----
-id: transcaucasus
-aliases:
-  - transcaucasus
-tags: []
----
-
 [[moc-hiking.md]]
 
 ### Start

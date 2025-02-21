@@ -1,9 +1,3 @@
----
-id: Home
-aliases: []
-tags: []
----
-
 [[moc-computers]]
 [[moc-climbing]]
 [[moc-history]]

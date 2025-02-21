@@ -1,10 +1,3 @@
----
-id: tandem-services
-aliases:
-  - tandem-services
-tags: []
----
-
 [[moc-work.md]]
 
 ## Full-stack development

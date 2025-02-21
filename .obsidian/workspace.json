@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f0d70a6016d78c3",
+        "id": "6389b297a8104e80",
         "type": "tabs",
         "children": [
           {
-            "id": "f52e00b37fe6f181",
+            "id": "4cf3a30252a154df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hiking/transcaucasus.md",
+                "file": "Computers/vim-skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "transcaucasus"
+              "title": "vim-skills"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:mythology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,9 +168,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f52e00b37fe6f181",
+  "active": "4cf3a30252a154df",
   "lastOpenFiles": [
+    "Hiking/individual-trips/tatranska-magistrala.md",
+    "Hiking/individual-trips/transcaucasus.md",
+    "Hiking/individual-trips",
+    "Hiking/tatranska-magistrala.md",
+    "Work/test.md",
+    "Computers/moc-computers.md",
     "home.md",
+    "Hiking/transcaucasus.md",
+    "Computers/vim-skills.md",
     "Mythology/zeus.md",
     "Climbing/rope-skills.md",
     "History/people-of-interest.md",
@@ -182,8 +189,6 @@
     "Hiking",
     "Climbing/moc-trad-skills.md",
     "Climbing/moc-climbing.md",
-    "Computers/moc-computers.md",
-    "Computers/vim-skills.md",
     "Computers/neovim-plugins.md",
     "Travel/moc-travel.md",
     "Travel/countries.md",
@@ -194,11 +199,6 @@
     "Notes/python.md",
     "MOCs/MOC-software.md",
     "MOCs/MOC-mythology.md",
-    "British Folklore.md",
-    "Rope Skills.md",
-    "Notes/favourite-films.md",
-    "MOCs/Climbing MOC.md",
-    "Notes/slavic-mythology.md",
     "MOCs/Notes"
   ]
 }

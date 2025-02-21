@@ -1,9 +1,3 @@
----
-id: moc-history
-aliases: []
-tags: []
----
-
 [[home]]
 
 ## British Monarchy

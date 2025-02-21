@@ -1,9 +1,4 @@
----
-id: ancient-greece
-aliases:
-  - ancient-greece
-tags: []
----
+[[moc-mythology]]
 
 # ancient-greece
 

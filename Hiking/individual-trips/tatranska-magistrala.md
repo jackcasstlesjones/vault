@@ -1,10 +1,3 @@
----
-id: tatranska-magistrala
-aliases:
-  - tatranska-magistrala
-tags: []
----
-
 [[moc-hiking.md]]
 
 ### Country
