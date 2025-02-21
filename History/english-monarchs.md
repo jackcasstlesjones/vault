@@ -1,10 +1,3 @@
----
-id: english-monarchs
-aliases:
-  - English Monarchs
-tags: []
----
-
 [[moc-history]]
 
 # Monarchs of England (871–1707)

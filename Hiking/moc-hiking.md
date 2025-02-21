@@ -7,6 +7,12 @@
 [[tatranska-magistrala]]
 [[transcaucasus]]
 
+## Slovenia Julian Alps
+
+[reddit thread](https://www.reddit.com/r/Slovenia/comments/11zintj/comment/jdddfme/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[trails](https://mapzs.pzs.si/home/trails)
+[chatgpt thread](https://chatgpt.com/share/67b852ab-ac28-8007-94f6-0fb0cc90b3f7)
+
 |               | tatranska magistrala | transcaucasus    |
 | ------------- | -------------------- | ---------------- |
 | country       | Slovakia             | Georgia          |
@@ -19,17 +25,20 @@
 
 ## Big Trip Purchases
 
-| item                   | cost pp | purchaser | note  |
-| ---------------------- | ------- | --------- | ----- |
-| sleeping bag           | 100     | ck        |       |
-| garmin inreaach mini 2 | 145     | both      | btest |
+| item                   | cost pp | purchaser | note |
+| ---------------------- | ------- | --------- | ---- |
+| sleeping bag           | 100     | ck        |      |
+| garmin inreaach mini 2 | 145     | both      |      |
+| sleeping pad           | 30      | ck        |      |
+| via ferrata lanyard    |         | both      |      |
 
 ## Sleeping Bags
 
-| item         | cost pp | weight | temp  | material |
-| ------------ | ------- | ------ | ----- | -------- |
-| Klimatic III | 150     | 1200g  |       |          |
-|              | 145     | both   | btest |          |
+| item                       | cost pp | weight | temp | material |
+| -------------------------- | ------- | ------ | ---- | -------- |
+| Klimatic III               | 150     | 1200g  | +1   |          |
+| ME helium 600              | 145     | 950g   | -5   |          |
+| Get Down 550F Sleeping Bag | 145     | 950g   | -5   |          |
 
 ---
 

@@ -1,10 +1,3 @@
----
-id: neovim-plugins
-aliases:
-  - neovim plugins
-tags: []
----
-
 [[moc-computers]]
 
 # neovim plugins

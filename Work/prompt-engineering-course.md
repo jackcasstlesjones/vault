@@ -1,3 +1,10 @@
+---
+id: prompt-engineering-course
+aliases:
+  - prompt-engineering-course
+tags: []
+---
+
 [[moc-work.md]]
 
 There are two types of LLM:

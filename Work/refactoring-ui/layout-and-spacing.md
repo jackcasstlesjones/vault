@@ -1,10 +1,3 @@
----
-id: layout-and-spacing
-aliases:
-  - layout-and-spacing
-tags: []
----
-
 [[refactoring-ui]]
 
 # layout-and-spacing

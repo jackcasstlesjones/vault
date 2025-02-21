@@ -1,10 +1,3 @@
----
-id: designing-text
-aliases:
-  - designing-text
-tags: []
----
-
 [[refactoring-ui]]
 
 # designing-text

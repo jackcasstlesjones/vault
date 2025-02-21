@@ -1,10 +1,3 @@
----
-id: hierarchy-is-everything
-aliases:
-  - hierarchy-is-everything
-tags: []
----
-
 [[refactoring-ui]]
 
 # hierarchy-is-everything

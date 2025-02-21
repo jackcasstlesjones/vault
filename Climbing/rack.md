@@ -2,7 +2,25 @@
 
 # Climbing Rack
 
-- Two pairs of shoes
+- 3x cams with 3x Camp Nano 22
+- 11x DMM wallnuts
+
+- 5x Camp Photon (?)
+- 2x Petzl attache HMS
+- 1x Hulk HMS
+- 1x mad Rock Super Tech Keylock Screw
+
+- 5x DMM Spectre
+- 1x DMM Chimera
+
+- 1x 60cm sling
+- 3x 120cm sling
+- 1x 240cm sling
+
+- 4x alpine draws (60cm sling)
+- 2x 10cm quickdraw
+- 2x 15cm quickdraw
+- 2x 20cm quickdraw
 
 ---
 
