@@ -1,10 +1,3 @@
----
-id: rope-skills
-aliases:
-  - rope-skills
-tags: []
----
-
 [[moc-climbing]]
 
 # rope-skills
@@ -19,3 +12,5 @@ tags: []
 - Quad anchor
 - Sliding X
 - Safety with two strands (girth hitch)
+
+rfemember to always keep a purssik on your [rack](Climbing/rack.md)

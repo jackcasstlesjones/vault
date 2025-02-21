@@ -1,3 +1,5 @@
+# Home
+
 [[moc-computers]]
 [[moc-climbing]]
 [[moc-history]]
