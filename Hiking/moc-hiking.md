@@ -2,8 +2,6 @@
 
 ## Eastern Europe
 
-[[big-trip]]
-
 [[tatranska-magistrala]]
 [[transcaucasus]]
 
