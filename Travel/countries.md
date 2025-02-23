@@ -1,10 +1,3 @@
----
-id: countries
-aliases:
-  - countries
-tags: []
----
-
 [[moc-travel]]
 
 # countries
