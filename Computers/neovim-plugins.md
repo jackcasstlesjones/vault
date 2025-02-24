@@ -24,6 +24,8 @@
 - [ ] nvim last place
 - [ ] heirline
 - [x] fix telescope project
+- [ ] incline nvim
+- [ ] copilot cmp
 
 ---
 
