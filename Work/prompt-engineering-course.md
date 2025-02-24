@@ -42,3 +42,20 @@ This course focuses on best practices for Instruction Tuned LLM.
 #### Few-shot prompting
 
 - Give successful examples of completing tasks before asking the model to perform the task.
+
+### Principle 2: Give the model time to think
+
+- Giving a model longer to think about a problem means that it can devote more computational resources to a task.
+
+#### Specify the steps required to complete a task
+
+- Specify the exact format that you want the output in (give the model examples)
+
+#### Instruct the model to work out its own solution before rushing to a conclusion
+
+- When checking solutions for something, ask the model to work out its own solution and check it against your solution. Make sure that it is working out the problem first, and comparing its answer against your solution, instead of just skim reading your solution and deciding that it is correct.
+
+### Model Limitations
+
+- even though the model has been exposed to a large amount of information, it has not perfectly memorised the information it has seen, so it doesn't know the boundary of its knowledge very well.
+- It can make things up that sound plausible but are not actually true (Hallucinations).
