@@ -9,5 +9,6 @@
 [[moc-travel]]
 [[moc-mythology]]
 [[moc-work]]
+[[moc-psychology]]
 [[moc-facts]]
 [[to-do]]

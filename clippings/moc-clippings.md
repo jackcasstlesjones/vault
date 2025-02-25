@@ -1,8 +1,5 @@
 [[home]]
 
-*Last updated: 2025-02-25*
+_Last updated: 2025-02-25_
 
 ## Book Highlights
-
-[[Nexus A Brief History of Information Networks from the Stone Age to AI]]
-[[Pragmatic Programmer, The From Journeyman to Master]]
