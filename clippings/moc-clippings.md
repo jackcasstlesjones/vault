@@ -4,4 +4,5 @@
 
 ## Book Highlights
 
-[[Roman Britain A Very Short Introduction]]
+[[Nexus A Brief History of Information Networks from the Stone Age to AI]]
+[[Pragmatic Programmer, The From Journeyman to Master]]
