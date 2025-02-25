@@ -9,4 +9,5 @@
 [[moc-mythology]]
 [[moc-work]]
 [[moc-facts]]
+[[moc-clippings]]
 [[to-do]]

@@ -2,4 +2,5 @@
 
 **Page 25**
 
-There is some truth in the assertion that the study of Roman Britain is prehistory, in the sense that we have to lean very heavily on archaeology—and this is also true of the early Anglo-Saxon period.
+> Actual examples of writing found in Britain, mostly as inscriptions on stone but some in other forms, constitute a major primary source for the Romano-British period.
+
