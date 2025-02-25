@@ -12,7 +12,7 @@ This is because training text e.g. internet articles can conceivably have this t
 
 Instruction Tuned LLM: tries to follow instructions
 
-- Typically trained from a base LLM that's trained on a huge amount of data, then fine-tused with inputs and outputs that are instructions and good attempts to follow those instructions.
+- Typically trained from a base LLM that's trained on a huge amount of data, then fine-tuned with inputs and outputs that are instructions and good attempts to follow those instructions.
 - Also fine-tuned using RLHF (reinforcement learning from human feedback).
 - Trained to be Helpful, Honest, Harmless
 
