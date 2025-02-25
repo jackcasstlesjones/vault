@@ -149,3 +149,10 @@ To github.com:jackcasstlesjones/vault.git
  1 file changed, 4 insertions(+)
 To github.com:jackcasstlesjones/vault.git
    9506443..70258f6  main -> main
+[main 2d29081] Auto-commit: 2025-02-25 21:20:00
+ 6 files changed, 20 insertions(+), 4 deletions(-)
+ rename moc-facts.md => Facts/moc-facts.md (100%)
+ create mode 100644 Psychology/learned-helplessness.md
+ create mode 100644 Psychology/moc-psychology.md
+To github.com:jackcasstlesjones/vault.git
+   70258f6..2d29081  main -> main

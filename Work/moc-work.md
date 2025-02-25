@@ -4,6 +4,7 @@
 [[refactoring-ui]]
 [[prompt-engineering-course]]
 [[harper-reed-workflow]]
+[[generative-ai-vs-agi]]
 
 ## AI Tools:
 
