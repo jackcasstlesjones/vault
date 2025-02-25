@@ -1,5 +1,6 @@
 # Home
 
+[[moc-clippings]]
 [[moc-computers]]
 [[moc-climbing]]
 [[moc-history]]
@@ -9,5 +10,4 @@
 [[moc-mythology]]
 [[moc-work]]
 [[moc-facts]]
-[[moc-clippings]]
 [[to-do]]
