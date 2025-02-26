@@ -59,3 +59,5 @@ This course focuses on best practices for Instruction Tuned LLM.
 
 - even though the model has been exposed to a large amount of information, it has not perfectly memorised the information it has seen, so it doesn't know the boundary of its knowledge very well.
 - It can make things up that sound plausible but are not actually true (Hallucinations).
+
+## Iterative Prompting
