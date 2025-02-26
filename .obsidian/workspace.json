@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Climbing/moc-climbing.md",
-                "mode": "source",
+                "file": "Computers/vim-skills.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "moc-climbing"
+              "title": "vim-skills"
             }
           }
         ]
@@ -170,14 +170,18 @@
   },
   "active": "4cf3a30252a154df",
   "lastOpenFiles": [
+    "Computers/moc-computers.md",
+    "Computers/practical-vim.md",
+    "Computers/neovim-plugins.md",
+    "home.md",
+    "Facts/moc-facts.md",
+    "Climbing/moc-climbing.md",
     "Computers/vim-skills.md",
     "Hiking/individual-trips/tatranska-magistrala.md",
     "Hiking/individual-trips/transcaucasus.md",
     "Hiking/individual-trips",
     "Hiking/tatranska-magistrala.md",
     "Work/test.md",
-    "Computers/moc-computers.md",
-    "home.md",
     "Hiking/transcaucasus.md",
     "Mythology/zeus.md",
     "Climbing/rope-skills.md",
@@ -188,8 +192,6 @@
     "Hiking/moc-hiking.md",
     "Hiking",
     "Climbing/moc-trad-skills.md",
-    "Climbing/moc-climbing.md",
-    "Computers/neovim-plugins.md",
     "Travel/moc-travel.md",
     "Travel/countries.md",
     "History/britain/english-monarchs.md",
@@ -197,8 +199,6 @@
     "Favourite Films.md",
     "MOCs/MOC-Climbing.md",
     "Notes/python.md",
-    "MOCs/MOC-software.md",
-    "MOCs/MOC-mythology.md",
     "MOCs/Notes"
   ]
 }
