@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/vim-skills.md",
+                "file": "home.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vim-skills"
+              "title": "home"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "d893a70baf8ae0a9",
@@ -170,35 +171,35 @@
   },
   "active": "4cf3a30252a154df",
   "lastOpenFiles": [
+    "Clippings/moc-clippings.md",
+    "home.md",
+    "Inventions/moc-inventions.md",
+    "Inventions/batteries.md",
     "Computers/moc-computers.md",
+    "Computers/vim-skills.md",
+    "History/moc-history.md",
+    "History/assination-of-archduke-franz-ferdinand.md",
+    "History/english-monarchs.md",
+    "Mythology/moc-mythology.md",
+    "Mythology/ancient-greece.md",
+    "Mythology/zeus.md",
+    "History/mansa-musa.md",
+    "Hiking/moc-hiking.md",
+    "Climbing/moc-climbing.md",
+    "Travel/moc-travel.md",
+    "Travel/countries.md",
+    "Climbing/rope-skills.md",
     "Computers/practical-vim.md",
     "Computers/neovim-plugins.md",
-    "home.md",
     "Facts/moc-facts.md",
-    "Climbing/moc-climbing.md",
-    "Computers/vim-skills.md",
     "Hiking/individual-trips/tatranska-magistrala.md",
     "Hiking/individual-trips/transcaucasus.md",
     "Hiking/individual-trips",
     "Hiking/tatranska-magistrala.md",
     "Work/test.md",
     "Hiking/transcaucasus.md",
-    "Mythology/zeus.md",
-    "Climbing/rope-skills.md",
-    "History/people-of-interest.md",
     "Hiking/moc-hiking.md~",
-    "Hiking/wales.md",
-    "Hiking/summer-2025.md",
-    "Hiking/moc-hiking.md",
     "Hiking",
-    "Climbing/moc-trad-skills.md",
-    "Travel/moc-travel.md",
-    "Travel/countries.md",
-    "History/britain/english-monarchs.md",
-    "MOCs/MOC-films.md",
-    "Favourite Films.md",
-    "MOCs/MOC-Climbing.md",
-    "Notes/python.md",
     "MOCs/Notes"
   ]
 }

@@ -63,3 +63,15 @@ This course focuses on best practices for Instruction Tuned LLM.
 - It can make things up that sound plausible but are not actually true (Hallucinations).
 
 ## Iterative Prompting
+
+- Be clear and specific
+- Analyse why result does not give desired output
+- Refine the idea and the prompt
+- Repeat
+
+- Try something
+- Analyse where the result does not give what you want
+- Clarify instructions, give more time to think
+- Refine prompts with a batch of examples
+
+## Inferring
