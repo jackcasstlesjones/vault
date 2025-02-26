@@ -2,6 +2,7 @@
 [[vim-skills]]
 [[neovim-plugins]]
 [[practical-vim]]
+[[cron]]
 
 ## Project Ideas
 
