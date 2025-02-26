@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers/vim-skills.md",
+                "file": "Climbing/moc-climbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vim-skills"
+              "title": "moc-climbing"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "4cf3a30252a154df",
   "lastOpenFiles": [
+    "Computers/vim-skills.md",
     "Hiking/individual-trips/tatranska-magistrala.md",
     "Hiking/individual-trips/transcaucasus.md",
     "Hiking/individual-trips",
@@ -178,7 +179,6 @@
     "Computers/moc-computers.md",
     "home.md",
     "Hiking/transcaucasus.md",
-    "Computers/vim-skills.md",
     "Mythology/zeus.md",
     "Climbing/rope-skills.md",
     "History/people-of-interest.md",
