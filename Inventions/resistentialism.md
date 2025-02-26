@@ -1,4 +1,4 @@
-[[moc-inventions.md]]
+[[moc-inventions]]
 
 Resistentialism is a jocular theory to describe 'seemingly spiteful behaviour manifested by inanimate objects'
 

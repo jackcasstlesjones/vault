@@ -1,4 +1,4 @@
-[[moc-climbing.md]]
+[[moc-climbing]]
 
 # Climbing Rack
 

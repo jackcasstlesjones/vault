@@ -1,4 +1,4 @@
-[[moc-work.md]]
+[[moc-work]]
 
 Generative AI: relies on a vast database of words and phrases to produce responses that mimic humans.
 

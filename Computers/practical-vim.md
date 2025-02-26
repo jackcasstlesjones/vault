@@ -1,4 +1,4 @@
-[[moc-computers.md]]
+[[moc-computers]]
 
 ### The Dot command
 

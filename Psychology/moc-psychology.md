@@ -1,4 +1,4 @@
-[[home.md]]
+[[home]]
 
 [[learned-helplessness]]
 

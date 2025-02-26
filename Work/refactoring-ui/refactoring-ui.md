@@ -1,4 +1,4 @@
-[[moc-work.md]]
+[[moc-work]]
 
 [[hierarchy-is-everything]]
 [[layout-and-spacing]]

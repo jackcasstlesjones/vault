@@ -1,4 +1,4 @@
-[[home.md]]
+[[home]]
 
 - No human has beaten a computer at chess for over 15 years
 

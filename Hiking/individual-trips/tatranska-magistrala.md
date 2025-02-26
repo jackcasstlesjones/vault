@@ -1,4 +1,4 @@
-[[moc-hiking.md]]
+[[moc-hiking]]
 
 ### Country
 

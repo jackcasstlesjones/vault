@@ -1,9 +1,9 @@
-[[moc-work.md]]
+[[moc-work]]
 
 There are two types of LLM:
 Base LLM: predicts next word, based on text training data.
 
-- Prompt: once upon a time there was a unicorn
+- Prompt: e upon a time there was a unicorn
 - Response: that lives in a magical forest
 - Prompt: what is the capital of France?
 - Response (could be): What is France's largest city? What is France's population?

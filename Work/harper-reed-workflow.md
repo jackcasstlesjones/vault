@@ -1,4 +1,4 @@
-[[moc-work.md]]
+[[moc-work]]
 
 1. Idea honing
 

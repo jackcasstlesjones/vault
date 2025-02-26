@@ -1,4 +1,4 @@
-[[moc-work.md]]
+[[moc-work]]
 
 title: "full-stack development",
 content:
