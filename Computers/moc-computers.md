@@ -3,6 +3,7 @@
 [[neovim-plugins]]
 [[practical-vim]]
 [[cron]]
+[[db]]
 
 ## Project Ideas
 
