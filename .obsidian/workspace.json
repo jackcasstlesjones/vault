@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Mythology/moc-mythology.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "home"
+              "title": "moc-mythology"
             }
           }
         ]
@@ -171,23 +171,23 @@
   },
   "active": "4cf3a30252a154df",
   "lastOpenFiles": [
-    "Clippings/moc-clippings.md",
     "home.md",
-    "Inventions/moc-inventions.md",
-    "Inventions/batteries.md",
-    "Computers/moc-computers.md",
-    "Computers/vim-skills.md",
+    "Travel/moc-travel.md",
     "History/moc-history.md",
-    "History/assination-of-archduke-franz-ferdinand.md",
-    "History/english-monarchs.md",
     "Mythology/moc-mythology.md",
     "Mythology/ancient-greece.md",
     "Mythology/zeus.md",
+    "Inventions/moc-inventions.md",
+    "Inventions/batteries.md",
+    "Travel/countries.md",
+    "Clippings/moc-clippings.md",
+    "Climbing/moc-climbing.md",
+    "History/assination-of-archduke-franz-ferdinand.md",
+    "History/english-monarchs.md",
+    "Computers/moc-computers.md",
+    "Computers/vim-skills.md",
     "History/mansa-musa.md",
     "Hiking/moc-hiking.md",
-    "Climbing/moc-climbing.md",
-    "Travel/moc-travel.md",
-    "Travel/countries.md",
     "Climbing/rope-skills.md",
     "Computers/practical-vim.md",
     "Computers/neovim-plugins.md",
