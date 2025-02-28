@@ -4,6 +4,7 @@
 [[practical-vim]]
 [[cron]]
 [[databases]]
+[[new-yorker]]
 
 ## Project Ideas
 
