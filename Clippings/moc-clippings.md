@@ -5,3 +5,4 @@
 ## Book Highlights
 
 [[Co-Intelligence Living and Working With AI]]
+[[Pragmatic Programmer, The From Journeyman to Master]]
