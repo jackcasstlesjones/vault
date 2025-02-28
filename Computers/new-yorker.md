@@ -1,4 +1,4 @@
-[[moc-computers.md]]
+[[moc-computers]]
 
 John Giorgi uses artificial intelligence to make artificial intelligence.
 

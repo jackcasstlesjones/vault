@@ -1,8 +1,4 @@
-[[moc-computers.md]]
-
-test-test at half 2
-
-## **What Does `* * * * *` Mean?**
+[[moc-computers]]
 
 Each `*` acts as a wildcard, meaning **"any value"** in that position.  
 A cron job with `* * * * *` will run every minute of every hour, every day.
