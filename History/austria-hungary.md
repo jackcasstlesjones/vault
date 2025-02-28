@@ -1,4 +1,4 @@
-[[assination-of-archduke-franz-ferdinand.md]]
+[[assination-of-archduke-franz-ferdinand]]
 
 Austria-Hungary, also referred to as the Austro-Hungarian Empire (or the Habsburg Monarch) was a multi-national constitutional monarchy between 1867 and 1918.
 

@@ -1,4 +1,4 @@
-[[moc-computers.md]]
+[[moc-computers]]
 
 ACID transactions are a set of rules that ensure database operations are performed correctly and reliably. ACID stands for Atomicity, Consistency, Isolation, and Durability.
 
