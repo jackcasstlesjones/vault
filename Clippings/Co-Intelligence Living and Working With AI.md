@@ -12,11 +12,11 @@
 
 **Page 14**
 
-> To teach AI how to understand and generate humanlike writing, it is trained on a massive amount of text from various sources, such as websites, books, and other digital documents. This is called pretraining, and unlike earlier forms of AI, it is unsupervised, which means the AI doesn’t need carefully labeled data. Instead, by analyzing these examples, AI learns to recognize patterns, structures, and context in human language. Remarkably, with a vast number of adjustable parameters (called weights), LLMs can create a model that emulates how humans communicate through written text. Weights are complex mathematical transformations that LLMs learn from reading those billions of words, and they tell the AI how likely different words or parts of words are to appear together or in a certain order. The original ChatGPT had 175 billion weights, encoding the connection between words and parts of words. No one programmed these weights; instead, they are learned by the AI itself during its training.
+> results each time you ask them a question. To
 
 **Page 14**
 
-> results each time you ask them a question. To
+> To teach AI how to understand and generate humanlike writing, it is trained on a massive amount of text from various sources, such as websites, books, and other digital documents. This is called pretraining, and unlike earlier forms of AI, it is unsupervised, which means the AI doesn’t need carefully labeled data. Instead, by analyzing these examples, AI learns to recognize patterns, structures, and context in human language. Remarkably, with a vast number of adjustable parameters (called weights), LLMs can create a model that emulates how humans communicate through written text. Weights are complex mathematical transformations that LLMs learn from reading those billions of words, and they tell the AI how likely different words or parts of words are to appear together or in a certain order. The original ChatGPT had 175 billion weights, encoding the connection between words and parts of words. No one programmed these weights; instead, they are learned by the AI itself during its training.
 
 **Page 15**
 
@@ -28,11 +28,11 @@
 
 **Page 16**
 
-> (one estimate suggests that high-quality data, like online books and academic articles, will be exhausted by 2026),
+> There is also active research into understanding whether AI can pretrain on its own content. This is what chess-playing AIs already do, learning by playing games against themselves, but it is not yet clear whether it will work for LLMs.
 
 **Page 16**
 
-> There is also active research into understanding whether AI can pretrain on its own content. This is what chess-playing AIs already do, learning by playing games against themselves, but it is not yet clear whether it will work for LLMs.
+> (one estimate suggests that high-quality data, like online books and academic articles, will be exhausted by 2026),
 
 **Page 17**
 
@@ -40,17 +40,17 @@
 
 **Page 5**
 
-> General Purpose Technologies typically have slow adoption, as they require many other technologies to work well. The internet is a great example. While it was born as ARPANET in the late 1960s, it took nearly three decades to achieve general use in the 1990s, with the invention of the web browser, the development of affordable computers, and the growing infrastructure to support high-speed internet. It was fifty years before smartphones enabled the rise of social media. And many companies have not even fully embraced the internet: making a business “digital” is still a hot topic of discussion at business school, especially as many banks still use mainframe computers.
+> generative AI might even be bigger. General
 
 **Page 5**
 
-> generative AI might even be bigger. General
-
-**Page 6**
-
-> Early computers improved quickly, thanks to Moore’s Law, the long-standing trend that the capability of computers doubles every two years.
+> General Purpose Technologies typically have slow adoption, as they require many other technologies to work well. The internet is a great example. While it was born as ARPANET in the late 1960s, it took nearly three decades to achieve general use in the 1990s, with the invention of the web browser, the development of affordable computers, and the growing infrastructure to support high-speed internet. It was fifty years before smartphones enabled the rise of social media. And many companies have not even fully embraced the internet: making a business “digital” is still a hot topic of discussion at business school, especially as many banks still use mainframe computers.
 
 **Page 6**
 
 > ChatGPT reached 100 million users faster than any previous product in history, driven by the fact that it was free to access, available to individuals, and incredibly useful.
+
+**Page 6**
+
+> Early computers improved quickly, thanks to Moore’s Law, the long-standing trend that the capability of computers doubles every two years.
 
