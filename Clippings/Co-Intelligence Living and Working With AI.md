@@ -25,4 +25,3 @@
 **Page 6**
 
 > Early computers improved quickly, thanks to Moore’s Law, the long-standing trend that the capability of computers doubles every two years.
-
