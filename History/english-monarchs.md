@@ -4,7 +4,7 @@
 
 ## Anglo-Saxon Monarchs (871–1013, 1014–1066)
 
-- [[Alfred the Great]] (871–899)
+- [[alfred-the-great]] (871–899)
 - Edward the Elder (899–924)
 - Æthelstan (924–939)
 - Edmund (939–946)
