@@ -4,7 +4,7 @@
 
 ## Anglo-Saxon Monarchs (871–1013, 1014–1066)
 
-- Alfred the Great (871–899)
+- [[Alfred the Great]] (871–899)
 - Edward the Elder (899–924)
 - Æthelstan (924–939)
 - Edmund (939–946)
@@ -60,7 +60,7 @@
 - Henry VII (1485–1509)
 - Henry VIII (1509–1547)
 - Edward VI (1547–1553)
-- Lady Jane ey (1553) _(Disputed, ruled for 9 days)_
+- Lady Jane Grey (1553) _(Disputed, ruled for 9 days)_
 - Mary I (Bloody Mary) (1553–1558)
 - Elizabeth I (1558–1603)
 
