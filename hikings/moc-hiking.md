@@ -7,7 +7,7 @@
 
 ## Slovenia Julian Alps
 
-[reddit thread](https://www.reddit.com/r/Slovenia/comments/11zintj/comment/jdddfme/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[reddit thread](https://tinyurl.com/4aj59kx3)
 [trails](https://mapzs.pzs.si/home/trails)
 [chatgpt thread](https://chatgpt.com/share/67b852ab-ac28-8007-94f6-0fb0cc90b3f7)
 
