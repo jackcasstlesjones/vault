@@ -1,3 +1,3 @@
-[[moc-inventions]]
+[[moc-science]]
 
 Horses were bred around lorem

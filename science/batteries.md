@@ -1,4 +1,4 @@
-[[moc-inventions]]
+[[moc-science]]
 
 ## Invented 1800AD (first chemical batteries that produced current)
 

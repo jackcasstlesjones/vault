@@ -5,7 +5,7 @@
 [[moc-climbing]]
 [[moc-history]]
 [[moc-hiking]]
-[[moc-inventions]]
+[[moc-science]]
 [[moc-travel]]
 [[moc-mythology]]
 [[moc-work]]

@@ -1,4 +1,0 @@
-[[home]]
-[[horses]]
-[[batteries]]
-[[resistentialism]]
