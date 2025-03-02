@@ -4,9 +4,9 @@
 
 Buddhist [[cosmology]] is the description of the shape description and evolution of the universe according to Buddhist scriptures and commentaries.
 
-The spatial cosmology consists of a vertical cosmology, the various planes of beings, into which beings are reborn due to their merits and developments; and a horizontal cosmology, the distribution of these world-systems into an infinite sheet of existential dimensions included in the cycle of samsara.
+The spaial cosmology consists of a vertical cosmology, the various planes of beings, into which beings are reborn due to their merits and developments; and a horizontal cosmology, the distribution of these world-systems into an infinite sheet of existential dimensions included in the cycle of samsara.
 
-The entire universe is said to be made up of five basic elements: Earth, Water, Fire, Air and Space.
+The entre universe is said to be made up of five basic elements: Earth, Water, Fire, Air and Space.
 
 Some ages are filled with prosperity and peace due to common goodness, while others are filled with suffering, dishonesty and short lifespans.
 

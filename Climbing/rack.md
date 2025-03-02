@@ -5,10 +5,10 @@
 - 3x cams with 3x Camp Nano 22
 - 11x DMM wallnuts
 
-- 5x Camp Photon (?)
+- 5x Cmp Photon (?)
 - 2x Petzl attache HMS
-- 1x Hulk HMS
-- 1x mad Rock Super Tech Keylock Screw
+- 1x Huk HMS
+- 1x mad Roooooooooock Super Tech Keylock Screw
 
 - 5x DMM Spectre
 - 1x DMM Chimera
