@@ -8,6 +8,7 @@
 [[moc-science]]
 [[moc-travel]]
 [[moc-mythology]]
+[[moc-theology]]
 [[moc-work]]
 [[moc-psychology]]
 [[moc-facts]]
