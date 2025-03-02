@@ -1,5 +1,7 @@
 [[home]]
 
+## Buddhism
+
 [[buddhist-cosmology]]
 
 ---
