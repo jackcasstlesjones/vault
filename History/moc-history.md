@@ -8,7 +8,7 @@
 
 ## People of Interest
 
-[[mansa-musa]]
+[[mansa-musa|Mansa Musa]]
 
 [[assination-of-archduke-franz-ferdinand]]
 
