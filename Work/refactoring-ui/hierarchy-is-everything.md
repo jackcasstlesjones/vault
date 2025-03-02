@@ -1,5 +1,9 @@
 [[refactoring-ui]]
 
+[Labels](#labels)
+[Balance weight and contrast](#balance-weight-and-contrast)
+[Semantics are secondary](#semantics-are-secondary)
+
 # hierarchy-is-everything
 
 - Use colour and weight to signifyu hierachy of text, not just size
