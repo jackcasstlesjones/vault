@@ -1,5 +1,23 @@
 [[moc-work]]
 
+<!-- mtoc-start -->
+
+* [Prompt Engineering](#prompt-engineering)
+  * [Prompting Principles](#prompting-principles)
+    * [Principle 1: Write clear and specific instructions](#principle-1-write-clear-and-specific-instructions)
+      * [Use delimiters to clearly indicate distinct parts of the input](#use-delimiters-to-clearly-indicate-distinct-parts-of-the-input)
+      * [Ask for a structured output](#ask-for-a-structured-output)
+      * [Ask if conditions are satisfied](#ask-if-conditions-are-satisfied)
+      * [Few-shot prompting](#few-shot-prompting)
+    * [Principle 2: Give the model time to think](#principle-2-give-the-model-time-to-think)
+      * [Specify the steps required to complete a task](#specify-the-steps-required-to-complete-a-task)
+      * [Instruct the model to work out its own solution before rushing to a conclusion](#instruct-the-model-to-work-out-its-own-solution-before-rushing-to-a-conclusion)
+    * [Model Limitations](#model-limitations)
+  * [Iterative Prompting](#iterative-prompting)
+  * [Inferring](#inferring)
+
+<!-- mtoc-end -->
+
 # Prompt Engineering
 
 There are two types of LLM:
