@@ -1,4 +1,5 @@
 [[home]]
+
 [[vim-skills]]
 [[neovim-plugins]]
 [[practical-vim]]
@@ -16,3 +17,7 @@
 ## Databases
 
 [[acid-transactions]]
+
+## History
+
+[[history-of-personal-computers]]
