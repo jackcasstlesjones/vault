@@ -9,7 +9,7 @@
 
 ## British Monarchy
 
-[[english-monarchs]]
+[[english-monarchs|English Monarchs]]
 
 ## People of Interest
 

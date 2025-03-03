@@ -20,7 +20,7 @@
 [trails](https://mapzs.pzs.si/home/trails)
 [chatgpt thread](https://chatgpt.com/share/67b852ab-ac28-8007-94f6-0fb0cc90b3f7)
 
-[[slovenia-plan]]
+[[slovenia-plan|Slovenia Plan]]
 
 ---
 

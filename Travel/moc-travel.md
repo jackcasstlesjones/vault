@@ -6,4 +6,4 @@
 
 # Bucket List
 
-[[uzbekistan]]
+[[Uzbekistan]]

@@ -20,4 +20,4 @@
 
 ## History
 
-[[history-of-personal-computers]]
+[[history-of-personal-computers|History of PCs]]

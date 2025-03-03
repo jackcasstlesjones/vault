@@ -1,7 +1,9 @@
 # Home
 
-[[moc-clippings|Clippings]]
-[[moc-computers|Computers]]
+## [[moc-clippings|Clippings]]
+
+## [[moc-computers|Computers]]
+
 [[moc-climbing|Climbing]]
 [[moc-history|History]]
 [[moc-hiking|Hiking]]
