@@ -25,4 +25,3 @@
 **Page 6**
 
 > ChatGPT reached 100 million users faster than any previous product in history, driven by the fact that it was free to access, available to individuals, and incredibly useful.
-

@@ -15,7 +15,7 @@
 
 [[mansa-musa|Mansa Musa]]
 
-[[assination-of-archduke-franz-ferdinand]]
+[[assination-of-archduke-franz-ferdinand|Assassination of Archduke Franz Ferdinand]]
 
 [[roman-britain-vsi]]
 
