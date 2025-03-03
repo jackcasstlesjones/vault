@@ -1,6 +1,11 @@
 [[home]]
 
-[[new-yorker]]
+## Architecture & System Design
+
+[[unix-philosophy]]
+[[system-design]]
+[[network-request]]
+[[osi-model|OSI Model]]
 
 ## CLI Tools
 
@@ -20,6 +25,10 @@
 ## History
 
 [[history-of-personal-computers|History of PCs]]
+
+### People of Note
+
+[[ken-thompson|Ken Thompson]]
 
 ## Productivity
 
