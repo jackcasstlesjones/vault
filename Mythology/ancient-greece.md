@@ -4,7 +4,7 @@
 
 Gods:
 
-- [Zeus](Mythology/zeus.md)
+- [Zeus](zeus.md)
 - Poseidon
 - Hades
 - Hera

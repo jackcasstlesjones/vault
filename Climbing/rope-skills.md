@@ -13,4 +13,4 @@
 - Sliding X
 - Safety with two strands (girth hitch)
 
-Remember to always keep a prussic on your [rack](Climbing/rack.md)
+Remember to always keep a prussic on your [rack](rack.md)

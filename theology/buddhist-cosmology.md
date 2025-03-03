@@ -4,7 +4,7 @@
 
 Buddhist [[cosmology]] is the description of the shape description and evolution of the universe according to Buddhist scriptures and commentaries.
 
-![[../images/Cosmological Mandala with Mount Meru.jpg]]
+![[Cosmological Mandala with Mount Meru.jpg]]
 
 The spatial cosmology consists of a vertical cosmology, the various planes of beings, into which beings are reborn due to their merits and developments; and a horizontal cosmology, the distribution of these world-systems into an infinite sheet of existential dimensions included in the cycle of samsara.
 
