@@ -1,11 +1,10 @@
 [[home]]
 
-[[vim-skills]]
-[[neovim-plugins]]
-[[practical-vim]]
-[[cron]]
-[[databases]]
 [[new-yorker]]
+
+## CLI Tools
+
+[[cron]]
 
 ## Project Ideas
 
@@ -21,3 +20,11 @@
 ## History
 
 [[history-of-personal-computers|History of PCs]]
+
+## Productivity
+
+### Vim
+
+[[vim-skills]]
+[[neovim-plugins]]
+[[practical-vim]]

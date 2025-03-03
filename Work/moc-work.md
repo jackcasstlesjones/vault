@@ -7,6 +7,8 @@
 [[generative-ai-vs-agi]]
 [[ai-workshop]]
 
+[[new-yorker]]
+
 ## AI Tools:
 
 - Repomix: A powerful tool that packs your entire repo into an AI friendly `.txt` file.
