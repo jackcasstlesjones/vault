@@ -7,9 +7,19 @@
 
 > "Things just happen, one after another. They don’t care who knows. But history … ah, history is different. History has to be observed. Otherwise it’s not history. It’s just … well, things happening one after another." - Terry Pratchett
 
-## British Monarchy
+## Britain
+
+### Monarchy
 
 [[english-monarchs|English Monarchs]]
+
+### Roman Britain
+
+[[roman-britain-vsi]]
+
+### London
+
+[[post-office]]
 
 ## People of Interest
 
@@ -17,11 +27,7 @@
 
 [[assination-of-archduke-franz-ferdinand|Assassination of Archduke Franz Ferdinand]]
 
-[[roman-britain-vsi]]
-
-## London
-
-[[post-office]]
+[[thutmose-III|Thutmose III]]
 
 ## India
 

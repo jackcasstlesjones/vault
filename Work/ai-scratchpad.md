@@ -74,4 +74,12 @@ So as a software engineer, I don’t feel threatened. My most optimistic view of
 
 ---
 
+I like to think about learning and AI like machines and exercise: They can help you be more effective (like a work-out machine) – but having a fork-lift lifting the weights for you, isn't very helpful for anyone.
+
+The point of lifting weights at the gym isn't that they're lifted – it's that you lift them. But when it comes to crates at a warehouse, the point is to make sure they're lifted, so there a fork-lift makes sense.
+
+If you're a professional (but fresh) coder, you still have a lot of learning left to do. So I wouldn't go full fork-lift mode. :P
+
+---
+
 03/03/2025
